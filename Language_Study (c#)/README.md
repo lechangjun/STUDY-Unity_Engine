@@ -1,3 +1,5 @@
-# TrexRunner
-
-[![Video Label](http://img.youtube.com/vi/3y1ezTIzGnM/0.jpg)](https://youtu.be/3y1ezTIzGnM)
+# C# 공부 자료실
+[]()
+## 📋 Flow chart
+1. Unity  언어 공부
+2. 자료 구조
